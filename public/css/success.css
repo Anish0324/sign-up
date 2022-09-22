@@ -1,0 +1,15 @@
+body{
+  margin: 0;
+}
+.head{
+  padding: 5rem;
+  background-color: #C1A3A3;
+  font-family: 'Varela Round', sans-serif;
+}
+.heading{
+  font-size: 5rem;
+  margin: 0;
+}
+.para{
+  font-weight: lighter;
+}
